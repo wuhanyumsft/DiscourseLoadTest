@@ -7,3 +7,5 @@ c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLo
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\obj\Debug\DiscourseLoadTest.pdb
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopic.webtest
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get.loadtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopicFrom20w.webtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get200000new.loadtest
