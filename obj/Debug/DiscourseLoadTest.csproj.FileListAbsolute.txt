@@ -9,3 +9,13 @@ c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLo
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get.loadtest
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopicFrom20w.webtest
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get200000new.loadtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopicFrom5w.webtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get_mix.loadtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get50000new.loadtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopicFromOld145w.webtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\LatestList.loadtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowUncategorizedList.webtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowTopList.webtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestList.webtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\LatestList10page.loadtest
+c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestList10page.webtest

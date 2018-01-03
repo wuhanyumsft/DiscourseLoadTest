@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LoadTest Name="1500000get50000new" Description="" Owner="" storage="c:\users\siw\documents\visual studio 2017\projects\discourseloadtest\discourseloadtest\1500000get50000new.loadtest" Priority="2147483647" Enabled="true" CssProjectStructure="" CssIteration="" DeploymentItemsEditable="" WorkItemIds="" TraceLevel="None" CurrentRunConfig="Run Settings1" Id="140d91f0-c07c-4a38-9a56-c52b9016b57f" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+<LoadTest Name="LatestList" Description="" Owner="" storage="c:\users\siw\documents\visual studio 2017\projects\discourseloadtest\discourseloadtest\latestlist.loadtest" Priority="2147483647" Enabled="true" CssProjectStructure="" CssIteration="" DeploymentItemsEditable="" WorkItemIds="" TraceLevel="None" CurrentRunConfig="Run Settings1" Id="eed671f4-181d-4144-9fc1-4f8b7076a132" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <Scenarios>
     <Scenario Name="1500000get" DelayBetweenIterations="0" PercentNewUsers="0" IPSwitching="false" TestMixType="PercentageOfTestsStarted" ApplyDistributionToPacingDelay="true" MaxTestIterations="0" DisableDuringWarmup="false" DelayStartTime="0" AllowedAgents="">
       <ThinkProfile Value="0.2" Pattern="NormalDistribution" />
       <LoadProfile Pattern="Step" InitialUsers="10" MaxUsers="200" StepUsers="10" StepDuration="10" StepRampTime="0" />
       <TestMix>
-        <TestProfile Name="GetOneTopicFromAllTopicFrom5w" Path="getonetopicfromalltopicfrom5w.webtest" Id="1aafb5da-c707-43f2-982c-877b77168ef7" Percentage="100" Type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestProfile Name="ShowLatestList" Path="showlatestlist.webtest" Id="a230b10c-5e9d-453b-a04a-a1734108947c" Percentage="100" Type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
       </TestMix>
       <BrowserMix>
         <BrowserProfile Percentage="100">

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="GetOneTopicFromAllTopicFrom5w" Id="1aafb5da-c707-43f2-982c-877b77168ef7" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="62291f46-8ba5-4968-80f8-4e76eb6cfbc0" Version="1.1" Url="http://discourse-app-test2.azurewebsites.net/t/{{TopicId}}" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+  </Items>
+  <WebTestPlugins>
+    <WebTestPlugin Classname="Microsoft.SystemCenter.Cloud.GsmPlugins.RandomIntGeneratorWebTestPlugin, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Generate Random Integer" Description="Generates a random integer.">
+      <RuleParameters>
+        <RuleParameter Name="ContextParameterName" Value="TopicId" />
+        <RuleParameter Name="MaxValue" Value="1500100" />
+        <RuleParameter Name="MinValue" Value="1450100" />
+      </RuleParameters>
+    </WebTestPlugin>
+  </WebTestPlugins>
+</WebTest>
