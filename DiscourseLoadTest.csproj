@@ -67,6 +67,9 @@
     <None Include="1500000get200000new.loadtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="ShowLatestListWithLogin.webtest">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="ShowLatestList10page.webtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
