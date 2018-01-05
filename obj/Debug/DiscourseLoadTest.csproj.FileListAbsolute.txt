@@ -20,3 +20,4 @@ c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLo
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\LatestList10page.loadtest
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestList10page.webtest
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestListWithLogin.webtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\LatestListWithLogin.loadtest

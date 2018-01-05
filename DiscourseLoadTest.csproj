@@ -52,6 +52,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="LatestListWithLogin.loadtest">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="LatestList10page.loadtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
