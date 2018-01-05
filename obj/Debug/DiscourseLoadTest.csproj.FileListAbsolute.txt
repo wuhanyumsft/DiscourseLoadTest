@@ -21,3 +21,9 @@ c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLo
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestList10page.webtest
 c:\users\siw\documents\visual studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestListWithLogin.webtest
 C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\LatestListWithLogin.loadtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\LatestList10pageWithLogin.loadtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestList10pageWithLogin.webtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\ShowLatestListWithLogin2.webtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\1500000get_mix_withLogin.loadtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopicFrom5wWithLogin.webtest
+C:\Users\siw\Documents\Visual Studio 2017\Projects\DiscourseLoadTest\DiscourseLoadTest\bin\Debug\GetOneTopicFromAllTopicFromOld145wWithLogin.webtest
